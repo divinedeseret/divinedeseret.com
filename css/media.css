@@ -1,0 +1,13 @@
+.media-icons{display:inline-block;}
+
+.media a{
+   text-decoration: none;
+}
+
+.bi-telephone:hover{
+   text-decoration:none;
+   color: pink;
+}
+.bg-pink{
+   background-color: rgb(247, 227, 230);
+}
